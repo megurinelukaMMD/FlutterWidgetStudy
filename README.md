@@ -1,6 +1,8 @@
 # myproject
 
-A new Flutter project.
+This is a demo of flutter application.
+In this demo I create splash_screen, login_screen, register_screen and home_page.
+
 
 ## Getting Started
 
